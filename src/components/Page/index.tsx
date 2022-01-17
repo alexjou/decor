@@ -27,7 +27,7 @@ const Page: React.FC = () => {
               overlayNode={
                 <DefaultOverlayContent
                   label={modelName}
-                  description="Faça sua compra Online e levaremos suas compras na sua casa"
+                  description="Faça sua compra e receba em casa"
                 />
               }
             />
